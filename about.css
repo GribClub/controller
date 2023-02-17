@@ -56,10 +56,9 @@ climate_controller/
 ├── examples/
 ├── scripts/
 ├── hardware/
-├── images/
-└── logs/
-├── hardware/
 │   ├── restart_button/
 │   │   ├── restart_button.cpp
 │   │   └── restart_button.h
+├── images/
+└── logs/
 .
