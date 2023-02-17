@@ -56,8 +56,12 @@ climate_controller/
 ├── examples/
 ├── scripts/
 ├── hardware/
+│   ├── restart_button/
+│   │   ├── restart_button.cpp
+│   │   └── restart_button.h
 ├── images/
 └── logs/
+<<<<<<< HEAD
 .
 
 1 изменение с компа 
@@ -65,3 +69,6 @@ climate_controller/
 2 изменение
 
 
+=======
+.
+>>>>>>> addkeyboard
