@@ -58,4 +58,10 @@ climate_controller/
 ├── hardware/
 ├── images/
 └── logs/
+├── hardware/
+│   ├── restart_button/
+│   │   ├── restart_button.cpp
+│   │   └── restart_button.h
 .
+
+а вот и я
