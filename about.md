@@ -1,0 +1,60 @@
+climate_controller/
+├── climate_controller.ino
+├── docs/
+│   ├── architecture.md
+│   ├── coding_standards.md
+│   └── documentation.md
+├── lib/
+│   ├── touch_screen/
+│   │   ├── touch_screen.cpp
+│   │   ├── touch_screen.h
+│   │   └── sd_card/
+│   │       ├── sd_card.cpp
+│   │       └── sd_card.h
+│   ├── sensors/
+│   │   ├── co2_sensor.cpp
+│   │   ├── co2_sensor.h
+│   │   ├── humidity_sensor.cpp
+│   │   ├── humidity_sensor.h
+│   │   ├── temperature_sensor.cpp
+│   │   └── temperature_sensor.h
+│   ├── communications/
+│   │   ├── wifi/
+│   │   │   ├── wifi.cpp
+│   │   │   └── wifi.h
+│   │   ├── bluetooth/
+│   │   │   ├── bluetooth.cpp
+│   │   │   └── bluetooth.h
+│   │   ├── telegram_bot/
+│   │   │   ├── telegram_bot.cpp
+│   │   │   └── telegram_bot.h
+│   │   └── web/
+│   │       ├── web.cpp
+│   │       └── web.h
+│   ├── timers/
+│   │   ├── timers.cpp
+│   │   └── timers.h
+│   ├── menu/
+│   │   ├── menu.cpp
+│   │   └── menu.h
+│   ├── modes/
+│   │   ├── mushrooms_mode/
+│   │   │   ├── mushrooms_mode.cpp
+│   │   │   └── mushrooms_mode.h
+│   │   └── plants_mode/
+│   │       ├── plants_mode.cpp
+│   │       └── plants_mode.h
+│   └── actuating_mechanisms/
+│       ├── actuating_mechanisms.cpp
+│       └── actuating_mechanisms.h
+├── config/
+│   └── config.h
+├── notes/
+│   └── memory_optimization.md
+├── tests/
+├── data/
+├── examples/
+├── scripts/
+├── hardware/
+├── images/
+└── logs/
